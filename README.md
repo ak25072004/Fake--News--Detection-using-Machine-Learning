@@ -1,0 +1,1 @@
+An end-to-end Machine Learning pipeline designed to classify news articles as Real or Fake. This project leverages Natural Language Processing (NLP) and supervised learning algorithms to combat misinformation by analyzing textual patterns, linguistic features, and context.
